@@ -1,11 +1,11 @@
-# Radar-UIPageViewController
+# Radar-33823598
 
 Project created to report bug on UIPageViewController
 
-· Open radar: https://openradar.appspot.com/xxxxx
+· Open radar: https://openradar.appspot.com/33823598
 
 # Description
-When using UIPageViewController, with transition style Scrool, the first view controller is presented with a wrong left margin.
+When using UIPageViewController, with transition style Scroll, the first view controller is presented with a wrong left offset.
 
 As soon as any gesture is triggered, the view adopts its expected layout.
 
