@@ -1,3 +1,5 @@
+# ⚠️ This issue was resolved in tvOS 11 beta 7 (15J5369a)
+
 # Radar-33823598
 
 Project created to report bug on UIPageViewController
